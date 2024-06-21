@@ -145,3 +145,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+Anaconda3-4.1.0-Linux-x86_64.sh
+pretrained_casiab_model.zip
